@@ -1,4 +1,4 @@
-<h1 align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Hi+👋+I'm+Erfan+Zaali;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀) </h1>
+<h1>align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Hi+👋+I'm+Erfan+Zaali;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀) </h1> 
 
 
 <h3 align="center">A passionate frontend developer from Iran</h3>
