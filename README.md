@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm erfan zaali</h1>
 
-https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Hi+👋+I'm+Erfan+Zaali;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&lines=Hi+👋+I'm+Erfan+Zaali;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀)
 
 
 <h3 align="center">A passionate frontend developer from Iran</h3>
